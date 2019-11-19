@@ -1,8 +1,3 @@
-// UNSW Hyperloop
-// Software Screen Task
-// Spencer Hanson
-// main.cpp
-
 #include "Machine.h"
 
 using namespace std;
