@@ -1,8 +1,3 @@
-// UNSW Hyperloop
-// Software Screen Task
-// Spencer Hanson
-// Machine.h
-
 #include <iostream>
 #include <chrono>
 #include <thread>
