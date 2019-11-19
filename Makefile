@@ -1,5 +1,3 @@
-## UNSW Hyperloop
-## Software Screen Task
 ## Spencer Hanson
 ## Makefile
 
